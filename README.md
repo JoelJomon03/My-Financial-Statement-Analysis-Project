@@ -1,2 +1,3 @@
 # My-Financial-Statement-Analysis-Project
 In this project, we will draw conclusions about Tesla, Inc.’s performance based on widely accepted industry ratios. Ratio analysis has been provided in the following pages along with an executive summary on performance and findings. Figures used are pulled from the most recent 10-K released by Tesla, Inc. on January 30, 2025.
+I have used common size analysis on both the Balance Sheet and Income Statement to identify any trends or highlight any distinct changes in the operations/structure of the company. I also run ratio analysis on the company, using time series and cross-sectional analysis to compare the performance of this company over time and with industry competitors.
